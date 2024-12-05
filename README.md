@@ -3,7 +3,7 @@
 AI Agent Marketplace and Apps Store by [Deepnlp AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent), which is the directory for more than 1000+ AI Agents and Apps covering various types of AI agents, such as autonomous agent, chatbots, Computer and Mobile phone use agents, robotic agents, and various industries such as business, finance, law, medical or healthcare, etc. The directory are updated to websites from both public repo (github/huggingface) as well as AI Agent services in cloud service provider (Microsoft Azure AWS, Copilot, GPT Store, Google Cloud, etc).
 
 ## AI Agent Search Portal
-[AI Agent Search Portal](http://www.deepnlp.org/search/agent) help you easily navigate through various AI agents Apps, services, repos, prototypes, datasets.
+[AI Agent Search Portal](http://www.deepnlp.org/search/agent/) help you easily navigate through various AI agents Apps, services, repos, prototypes, datasets.
 
 ![AI Agent Marketplace DeepNLP](https://github.com/AgentProMaster/AI-Agent-Marketplace/blob/main/ai_agent_search_main.jpg?raw=true)
 
