@@ -84,6 +84,11 @@ AI Agent Marketplace and Apps Store by [Deepnlp AI Agent Marketplace](http://www
 [Saleforce AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-salesforce-ai-agent) <br>
 [Google AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-google-ai-agent) <br>
 [Google AI Agents Space](http://www.deepnlp.org/store/ai-agent/ai-agent/pub-google-ai-agent/google-ai-agents-space-review) <br>
+[Gemini 2 Google Agent Reviews](http://www.deepnlp.org/store/pub/pub-gemini-2-google) <br>
+[Google Gemini 2 Agent Project Astra Review](http://www.deepnlp.org/store/ai-agent/ai-agent/pub-gemini-2-google/google-project-astra) <br>
+[Google Gemini 2 Agents in Game Review](http://www.deepnlp.org/store/ai-agent/ai-agent/pub-gemini-2-google/google-agents-in-games) <br>
+[Google Gemini 2 Code Agent Jules Review](http://www.deepnlp.org/store/ai-agent/ai-agent/pub-gemini-2-google/google-jules) <br>
+[Google Gemini 2 Project Mariner Review](http://www.deepnlp.org/store/ai-agent/ai-agent/pub-gemini-2-google/google-project-mariner) <br>
 ##### AI Agent Search 
 [Search AI Agent Marketplace](http://www.deepnlp.org/search/agent) <br>
 [Robot Search](http://www.deepnlp.org/search/robot) <br>
